@@ -1,6 +1,5 @@
 ### 갓 to the 생 을 위한 깃허브 ❤
 ### 2022년 코딩 열심히 하기
-### 매일 방문해서 코딩하기 
 
 <!--
 **jmlee119/jmlee119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
