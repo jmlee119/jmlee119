@@ -1,5 +1,4 @@
-### 갓 to the 생 을 위한 깃허브 ❤
-### 2022년 코딩 열심히 하기
+### 매일 커밋하기
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmlee119&show_icons=true&theme=vue)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jimin1001)](https://solved.ac/jimin1001)
