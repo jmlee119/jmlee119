@@ -1,4 +1,4 @@
-### 매일 커밋하기
+### 매일 코딩하고 커밋하기
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmlee119&show_icons=true&theme=vue)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jimin1001)](https://solved.ac/jimin1001)
