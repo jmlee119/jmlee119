@@ -5,11 +5,18 @@
 
 [📈시니어들을 위한 모의 투자 사이트](https://github.com/1-screeningHumanity)
 
-## 🌱 Git Actibity 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmlee119&show_icons=true&theme=vue)
+## 👩‍💻 Skills
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
 ## 📆 Backjoon
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jimin1001)](https://solved.ac/jimin1001)
+
+
+## 🌱 Git Actibity 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmlee119&show_icons=true&theme=vue)
+
 
 
 <!--
