@@ -6,9 +6,17 @@
 [📈시니어들을 위한 모의 투자 사이트](https://github.com/1-screeningHumanity)
 
 ## 👩‍💻 Skills
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> <img  src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-squaret&logo=Next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+<img  src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=Recoil&logoColor=white"/> 
+<img  src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> 
+ 
+<br />
 
 ## 📆 Backjoon
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jimin1001)](https://solved.ac/jimin1001)
